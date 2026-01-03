@@ -1,0 +1,1 @@
+worker: python damage_bot.py
